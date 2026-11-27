@@ -1,16 +1,13 @@
-## Hi there 👋
+[![KAISEE — Crypto market research & tools](kaisee-banner.png)](https://kaisee.space/)
 
-<!--
-**kaisee-tech/kaisee-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# KAISEE
 
-Here are some ideas to get you started:
+I build tools and interactive demos for exploring crypto markets. KAISEE brings together workflow examples for AI-assisted price analysis and DEX arbitrage.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| On KAISEE | What you can explore |
+| --- | --- |
+| **Market analysis** | See how market news and price trends can inform a trading hypothesis. |
+| **DEX arbitrage** | Explore differences in quoted prices across decentralized exchanges. |
+| **Trading strategies** | Learn how grid, DCA, and sniping workflows work. |
+
+**[Explore KAISEE ↗](https://kaisee.space/)**
