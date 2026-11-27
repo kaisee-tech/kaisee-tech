@@ -2,7 +2,7 @@
 
 # KAISEE
 
-I build tools and interactive demos for exploring crypto markets. KAISEE brings together workflow examples for AI-assisted price analysis and DEX arbitrage.
+I build tools and interactive apps for exploring crypto markets. KAISEE brings together workflow examples for AI-assisted price analysis and DEX arbitrage.
 
 | On KAISEE | What you can explore |
 | --- | --- |
